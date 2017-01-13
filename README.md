@@ -15,8 +15,5 @@
 <li>Tomcat</li>
 <li>Среда разработки - Intellij Idea Ultimate Edition</li>
 </ul>
-PS: DB_table.sql - файл для создания и наполнения данными таблицы.<br>
-имя БД - test<br>
-имя пользователя и пароль - root<br>
-<br>
+
 
