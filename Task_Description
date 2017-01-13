@@ -1,0 +1,18 @@
+************************************************************************************************************************
+
+//TODO
+- Write sql scripts for populating database
+- Test the application manually. Create backlog in Jira
+- Think about table structure. Make improvements
+- Fix multiple bugs in application.
+- Change pictures
+- Make proper optimization in pom.xml and dispatcher-servlet. Use property files, properties in order to make code more flexible.
+- Migrate to latest release versions of frameworks. Make sure that they work fine together
+- Use Time API from Java 8
+- Refactor and clean code according to Endava's code conventions.
+- Fix mappings in controller
+- Add possibility to edit date in Edit Form and to add date field value in Add Form
+- Add support of UTF-8 encoding
+
+- Feel free to add as many new features as you can (pagination, priority that will change the color of item,
+sorting by priority etc);
